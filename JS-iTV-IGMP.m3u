@@ -1,3 +1,6 @@
+#EXTINF:-1,CCT1
+https://raw.githubusercontent.com/EddieMumu/iptv/refs/heads/main/cct1.m3u8
+
 #EXTINF:-1, CCTV1HD
 http://10.0.0.123:4022/udp/239.49.8.19:9614
 
